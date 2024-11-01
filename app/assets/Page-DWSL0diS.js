@@ -1,0 +1,1 @@
+import{r as a,j as r,a7 as p,p as s}from"./index-UyDEpSKi.js";import{B as n}from"./Box-BLXI0_F0.js";const x=a.forwardRef(({children:e,title:t="",...i},o)=>r.jsxs(n,{ref:o,...i,children:[r.jsx(p,{children:r.jsx("title",{children:t})}),e]}));x.propTypes={children:s.node.isRequired,title:s.string};export{x as P};
